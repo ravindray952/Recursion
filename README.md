@@ -1,6 +1,6 @@
 # Recursion
 **Recursion from frontend freak**         
-*SOLUTION FROM PRAKASH SHUKLA*
+*SOLUTION FROM PRAKASH SHUKLA*           //   vishal ka solve kr lo kisis bhi methos se baaki wk video dekh lena recurtion wala rodeside coder ka
 >  time complextiy:- o(n)  bcz iterate linearly
 > sc :- O(1)     no extra space conssume
 
